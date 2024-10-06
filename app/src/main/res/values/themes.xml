@@ -1,0 +1,28 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.Todolist" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personnalisez les couleurs principales -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Personnalisation de la barre de statut et de navigation -->
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:navigationBarColor">@color/teal_200</item>
+
+        <!-- Personnalisation du texte et de l'arrière-plan -->
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- Configuration pour les AppCompat Widgets -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Thème spécifique aux dialogues AppCompat -->
+    <style name="Theme.Todolist.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>
