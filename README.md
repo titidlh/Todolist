@@ -1,6 +1,6 @@
 # 📝 Application de Gestion de Tâches (To-Do List) 📅
 
-Bienvenue dans mon projet Android de gestion de tâches (To-Do List), développé dans le cadre de mon examen de rattrapage. Cette application permet de créer, afficher, marquer comme complétées, et supprimer des tâches, tout en assurant la persistance des données à l'aide de SQLite.
+Bienvenue dans mon projet Android de gestion de tâches (To-Do List), développé dans le cadre de mon projet scolaire. Cette application permet de créer, afficher, marquer comme complétées, et supprimer des tâches, tout en assurant la persistance des données à l'aide de SQLite.
 
 ## 📂 Structure du Projet
 - **MainActivity** : Activité principale affichant la liste des tâches.
@@ -57,9 +57,9 @@ L'application a été conçue en respectant les critères suivants :
 - Synchroniser avec une base de données distante (Firebase, etc.).
 
 ## 👨‍💻 Auteur
-- **Nom** : [Votre Nom]
-- **Contact** : [Votre Email]
-- **GitHub** : [Votre Profil GitHub]
+- **Nom** : Delahaye
+- **Contact** : Thierry
+- **GitHub** :  https://github.com/titidlh/
 
 ## 📝 License
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
