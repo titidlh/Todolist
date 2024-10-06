@@ -18,14 +18,9 @@ Bienvenue dans mon projet Android de gestion de tâches (To-Do List), développ�
 
 ## 📸 Captures d'Écran
 
-### Suppression de Tâche
-![Suppression de Tâche](https://github.com/titidlh/Todolist/blob/master/supprimer%20task.png)
+<img src="https://github.com/titidlh/Todolist/blob/master/supprimer%20task.png" width="400" />
+<img src="https://github.com/titidlh/Todolist/blob/master/supprimer.png" width="300" />
 
-### Confirmation de Suppression
-![Confirmation de Suppression](https://github.com/titidlh/Todolist/blob/master/supprimer.png)
-
-### Illustration Générale
-![Illustration Générale](https://github.com/user-attachments/assets/2f2c8ad8-84ba-4cbb-a377-b0c9d9abca84)
 
 ## 🛠️ Technologies Utilisées
 - **Java** : Langage de programmation principal.
