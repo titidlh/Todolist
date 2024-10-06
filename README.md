@@ -15,9 +15,17 @@ Bienvenue dans mon projet Android de gestion de tâches (To-Do List), développ�
 3. **Marquer une tâche comme accomplie** : Utilisez la case à cocher pour indiquer qu'une tâche est complétée.
 4. **Supprimer une tâche** : Supprimez une tâche de la liste et de la base de données.
 5. **Persistance des données** : Les tâches sont sauvegardées localement à l'aide de SQLite.
-[Capture 1](https://github.com/user-attachments/assets/2f2c8ad8-84ba-4cbb-a377-b0c9d9abca84)
-[Capture 2](https://github.com/titidlh/Todolist/blob/master/supprimer%20task.png)
-[Capture 3](https://github.com/titidlh/Todolist/blob/master/supprimer.png)
+
+## 📸 Captures d'Écran
+
+### Suppression de Tâche
+![Suppression de Tâche](https://github.com/titidlh/Todolist/blob/master/supprimer%20task.png)
+
+### Confirmation de Suppression
+![Confirmation de Suppression](https://github.com/titidlh/Todolist/blob/master/supprimer.png)
+
+### Illustration Générale
+![Illustration Générale](https://github.com/user-attachments/assets/2f2c8ad8-84ba-4cbb-a377-b0c9d9abca84)
 
 ## 🛠️ Technologies Utilisées
 - **Java** : Langage de programmation principal.
