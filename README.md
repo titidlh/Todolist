@@ -10,7 +10,7 @@ Bienvenue dans mon projet Android de gestion de tâches (To-Do List), développ�
 - **TaskDatabaseHelper** : Classe gérant la base de données SQLite (`tasks.db`).
 
 ## 📋 Fonctionnalités
-1. **Ajouter des tâches** : [Ajoutez une tâche avec une description.](![image](https://github.com/user-attachments/assets/2f2c8ad8-84ba-4cbb-a377-b0c9d9abca84)
+1. **Ajouter des tâches** :[Ajoutez une tâche avec une description.](https://github.com/user-attachments/assets/2f2c8ad8-84ba-4cbb-a377-b0c9d9abca84)
 ) 
 2. **Afficher la liste des tâches** : Affiche toutes les tâches dans un `RecyclerView`.
 3. **Marquer une tâche comme accomplie** : Utilisez la case à cocher pour indiquer qu'une tâche est complétée.
